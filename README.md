@@ -3,7 +3,7 @@ Build a Machine Learning Classification dataset for your Gmodstore tickets, usin
 
 ## What actually is this?
 The script used the Gmodstore API to pull all the given tickets for a provided product, and breaks their opening message up into a folder structure based on the ticket's labels.
-It follows the structure required by [liner.ai](https://liner.ai/)'s classification model, which is what this package was made to satisfy. But there's no reason you couldn't import this data to another tool/package.
+It follows the structure required by [liner.ai](https://liner.ai/)'s classification model, which is what this script was made to satisfy. But there's no reason you couldn't import this data to another tool/package.
 
 ## What can I do with this?
 If you use [liner.ai](https://liner.ai/), you can export your model as a [TensorFlow](https://www.tensorflow.org/). You can then use your model in something like NodeJS to automatically classify new Gmodstore Tickets and provide automated responses,
