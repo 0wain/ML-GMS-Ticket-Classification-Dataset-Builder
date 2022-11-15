@@ -12,7 +12,7 @@ which is the reason this even exists.
 
 ## How do I use this?
 1. Clone this repo.
-2. run ``npm install``.
+2. Run ``npm install``.
 3. Copy the ``.env.copy`` to ``.env``.
 4. Fill in the 2 values for the ``.env``.
 5. Run ``npm run start``.
