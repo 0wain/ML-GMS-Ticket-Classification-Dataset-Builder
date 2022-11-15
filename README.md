@@ -1,5 +1,5 @@
 # Machine Learning Gmodstore Ticket Classifier Dataset Builder
-Build a Machine Learning Classifier dataset for your gmodstore tickets, using the Gmodstore Tag system.
+Build a Machine Learning Classification dataset for your gmodstore tickets, using the Gmodstore Tag system.
 
 ## What actually is this?
 The script used the Gmodstore API to pull all the given tickets for a provided product, and breaks their opening message up into a folder structure based on the ticket's labels.
